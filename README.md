@@ -15,7 +15,7 @@ TECHNOLOGIES USED:
   CSS3: Used for styling the website and creating a warm, cozy aesthetic.
 
   Responsive Design: Ensuring the site looks great on all devices.
-
+     
 
 DEPLOYED LINK:
  https://monikasivaraj.github.io/cafeLandingPage/
